@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/yourusername/dns-reset-script/issues)
+- Open an [issue](https://github.com/monarch684/WindowsDNSReset/issues)
 - Check existing issues for solutions
 - Provide system details and error messages when reporting bugs
 
