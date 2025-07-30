@@ -20,7 +20,7 @@ A PowerShell script that automatically resets DNS settings to dynamic (DHCP) con
 
 1. Download the script:
    ```bash
-   git clone https://github.com/monarch684/WindowsDNSReset
+   git clone (https://github.com/monarch684/WindowsDNSReset/blob/main/reset-dns.ps1)
    ```
 
 2. Navigate to the script directory:
